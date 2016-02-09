@@ -1,0 +1,25 @@
+body {
+    background-color: yellow;
+}
+
+#one {
+    color: red;
+    text-align: center;
+    font-size: 30px;
+}
+
+#two {
+    color: blue;
+    position: absolute;
+    bottom: 0;
+    font-size: 45px;
+}
+
+#code {
+    width: 400px;
+    margin: 30px auto;
+}
+
+#code img {
+    width: 100%
+}
